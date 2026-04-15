@@ -1,0 +1,6 @@
+.idea/
+.venv/
+.learnings/
+output/
+__pycache__/
+*.py[cod]
