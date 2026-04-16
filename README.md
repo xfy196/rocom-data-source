@@ -44,6 +44,8 @@ python3 main.py \
   --mysql-database rocom
 ```
 
+> **user、password、database，请使用你自己的数据库配置～**
+
 执行后会：
 
 1. 抓取图鉴页面和蛋组页面
@@ -75,6 +77,7 @@ export MYSQL_DATABASE=rocom
 
 python3 main.py --save-source --write-mysql
 ```
+> **MYSQL_USER、MYSQL_PASSWORD、MYSQL_DATABASE，请使用你自己的数据库配置～**
 
 ## 5. 只把已有 JSON 写入 MySQL
 
