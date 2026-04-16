@@ -2,6 +2,11 @@
 
 抓取洛克王国图鉴数据，导出 JSON，并可直接写入本地 MySQL。
 
+## 0. 数据来源
+
+- 官方图鉴数据: https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/
+- 官方蛋组数据: https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/egg.html
+
 ## 1. 安装依赖
 
 ```bash
