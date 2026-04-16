@@ -1,6 +1,6 @@
 # Rocom Data Source
 
-抓取洛克王国图鉴数据，导出 JSON，并可直接写入本地 MySQL。
+抓取官方洛克王国：世界图鉴数据，导出 JSON，并支持直接写入本地 MySQL。
 
 ## 0. 数据来源
 
